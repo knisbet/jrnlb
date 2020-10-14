@@ -63,7 +63,6 @@ ARGS:
 
 # Limit Output
 ❯ jrnlb /tmp/journal.export -n 1
-Opts { filter: Filter { unit: None, since: None, until: None, lines: Some(1) }, files: ["/tmp/journal.export"], output_mode: None }
 2020-10-14T04:54:59.000140546+00:00 knisbet-dev sshd[5605]: Disconnected from authenticating user root 80.211.56.216 port 39400 [preauth]
 
 ```
